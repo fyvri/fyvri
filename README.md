@@ -9,19 +9,15 @@
 
 > [!TIP]
 >
-> ```console
 > Let's have a cup of coffee, I'm always open to learning new things and discussing crazy ideas 🤯
-> ```
 >
 > <picture><img alt="Listen to Music in Spotify" src="https://listen-to-spotify.membasuh.com" /></picture>
 
 ---
 
-<!-- <picture><img alt="Line" src="https://files.catbox.moe/oax0ia.png" width="100%" /></picture> -->
-
 <div align="center">
 
-_Should my stuffs have brought value to your life and you’d like to give back, I’d be deeply appreciative if you could support my efforts by buying me a coffee — only if it’s something you’re happy to do!_
+_If my stuff has impacted to your life and you'd like to show your support, I’d be truly grateful if you could buy me a coffee. This small gesture helps me continue creating and sharing meaningful tools — but only if it’s something you’re comfortable with and happy to do!_
 
 [![PayPal][donate-paypal::shield]][donate-paypal::url] [![Buy Me a Coffee][donate-buymeacoffee::shield]][donate-buymeacoffee::url] [![Ko-fi][donate-ko-fi::shield]][donate-ko-fi::url] [![Trakteer][donate-trakteer::shield]][donate-trakteer::url]
 
