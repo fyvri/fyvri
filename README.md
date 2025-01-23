@@ -17,7 +17,7 @@
 
 <div align="center">
 
-_If my stuff has impacted to your life and you'd like to show your support, I’d be truly grateful if you could buy me a coffee. This small gesture helps me continue creating and sharing meaningful tools — but only if you’re comfortable with and happy to do!_
+_If my stuff has made a meaningful impact on your work or inspired you in any way, I’d be truly grateful if you could buy me a coffee. This small gesture helps me continue creating and sharing meaningful tools — but only if you’re comfortable with and happy to do!_
 
 [![PayPal][donate-paypal::shield]][donate-paypal::url] [![Buy Me a Coffee][donate-buymeacoffee::shield]][donate-buymeacoffee::url] [![Ko-fi][donate-ko-fi::shield]][donate-ko-fi::url] [![Trakteer][donate-trakteer::shield]][donate-trakteer::url]
 
