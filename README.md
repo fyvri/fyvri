@@ -1,11 +1,11 @@
-[donate-paypal::shield]: https://img.shields.io/badge/PayPal-membasuh-0070BA?logo=paypal
 [donate-paypal::url]: https://paypal.me/membasuh
-[donate-buymeacoffee::shield]: https://img.shields.io/badge/Buy_Me_a_Coffee-azisalvriyanto-FFDD00?logo=buymeacoffee
+[donate-paypal::shield]: https://img.shields.io/badge/PayPal-membasuh-0070BA?logo=paypal
 [donate-buymeacoffee::url]: https://buymeacoffee.com/azisalvriyanto
-[donate-trakteer::shield]: https://custom-icon-badges.demolab.com/badge/Trakteer-azisalvriyanto-BE1E2D.svg?logo=trakteer-red
-[donate-trakteer::url]: https://trakteer.id/azisalvriyanto/tip
-[donate-ko-fi::shield]: https://img.shields.io/badge/Ko--fi-azisalvriyanto-F45D22?logo=kofi
+[donate-buymeacoffee::shield]: https://img.shields.io/badge/Buy_Me_a_Coffee-azisalvriyanto-FFDD00?logo=buymeacoffee
 [donate-ko-fi::url]: https://ko-fi.com/azisalvriyanto
+[donate-ko-fi::shield]: https://img.shields.io/badge/Ko--fi-azisalvriyanto-F45D22?logo=kofi
+[donate-trakteer::url]: https://trakteer.id/azisalvriyanto/tip
+[donate-trakteer::shield]: https://custom-icon-badges.demolab.com/badge/Trakteer-azisalvriyanto-BE1E2D.svg?logo=trakteer-red
 
 > [!TIP]
 >
