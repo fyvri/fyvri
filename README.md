@@ -11,7 +11,7 @@
 >
 > Let's have a cup of coffee, I'm always open to learning new things and discussing crazy ideas 🤯
 >
-> <picture><source media="(prefers-color-scheme: light)" srcset="https://listen-to-spotify.membasuh.com/?theme=light" /><source media="(prefers-color-scheme: dark)" srcset="https://listen-to-spotify.membasuh.com/?theme=dark" /><img alt="Listen to Spotify" src="https://listen-to-spotify.membasuh.com" /></picture>
+> <picture><source media="(prefers-color-scheme: light)" srcset="https://listen-to-spotify.membasuh.com/index.php?theme=light" /><source media="(prefers-color-scheme: dark)" srcset="https://listen-to-spotify.membasuh.com/index.php?theme=dark" /><img alt="Listen to Spotify" src="https://listen-to-spotify.membasuh.com/index.php" /></picture>
 
 ---
 
